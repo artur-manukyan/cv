@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>A. Manukyan | Home</title>
-    <link rel="stylesheet" href="./styles.css">
+    <link rel="stylesheet" href="./css/styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
@@ -27,7 +27,7 @@
                 <div class="main-content">
                     <div class="main-content-left">
                         <div id="avatar-frame">
-                            <img id="avatar" src="./avatar-home.jpg" alt="image" width="428px" height="auto">
+                            <img id="avatar" src="./images/avatar-home.jpg" alt="image" width="428px" height="auto">
                         </div>
                     </div>
                     <div class="main-content-right">
