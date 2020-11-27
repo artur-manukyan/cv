@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  font-family: Tahoma;
 }
 
 
@@ -113,7 +114,7 @@ a.nav-link:hover {
   display: block;
   position: absolute;
   
-  bottom: 90px;
+  bottom: 70px;
   right: 20px;
   height: 795px;
   width: 1561px;
